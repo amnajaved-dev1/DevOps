@@ -1,5 +1,5 @@
 # Lab 3 - Advanced Git Operations
-remote_edit
+Remote conflicting change
 
 Another remote edit for rebase test
 
